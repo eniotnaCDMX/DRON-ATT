@@ -24,7 +24,7 @@ from kivy_garden.mapview import MapMarkerPopup
 
 # Other modules
 
-API_Key = "AIzaSyC1ZjeqOcRBlmLlxLA6Cmm-Y8PkEYT818Q"
+API_Key = "WontGiveYouMyKey:)"
 
 map_client = googlemaps.Client(API_Key)
 
